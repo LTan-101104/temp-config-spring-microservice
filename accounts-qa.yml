@@ -2,7 +2,7 @@ build:
   version: "1.0-qa-something v1"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs, temp v1 v2"
+  message: "Welcome to EazyBank accounts related QA APIs, temp v1 v2 v3"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
