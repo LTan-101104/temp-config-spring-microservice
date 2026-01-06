@@ -1,6 +1,7 @@
 server:
   port: 8072
 
+#must connect to eureka to fetch details about microservices
 eureka:
   instance:
     preferIpAddress: true
